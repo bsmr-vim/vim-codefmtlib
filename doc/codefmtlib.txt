@@ -1,5 +1,5 @@
-*codefmtlib.txt*	Syntax-aware code formatting
-                                                                  *codefmtlib*
+*codefmtlib.txt*	Interface library for codefmt and formatter integrations.
+Google                                                            *codefmtlib*
 
 ==============================================================================
 CONTENTS                                                 *codefmtlib-contents*

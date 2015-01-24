@@ -1,6 +1,6 @@
 {
   "name": "codefmtlib",
-  "description": "Interface library for registering syntax-aware code formatters.",
+  "description": "Interface library for codefmt and formatter integrations.",
   "author": "Google",
   "repository": {"type": "git", "url": "git://github.com/google/vim-codefmtlib"},
   "dependencies": {
